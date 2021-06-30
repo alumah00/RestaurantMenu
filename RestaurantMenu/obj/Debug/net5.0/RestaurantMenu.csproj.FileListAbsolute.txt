@@ -1,0 +1,16 @@
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.exe
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.deps.json
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.runtimeconfig.json
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.runtimeconfig.dev.json
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.dll
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\ref\RestaurantMenu.dll
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.pdb
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.csproj.AssemblyReference.cache
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.AssemblyInfoInputs.cache
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.AssemblyInfo.cs
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.csproj.CoreCompileInputs.cache
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.dll
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\ref\RestaurantMenu.dll
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.pdb
+C:\Users\Loft\Desktop\launch\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.genruntimeconfig.cache
